@@ -1,11 +1,10 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"description": [
-		"Default preset for use with mogyugyu's repos"
+		"Default preset for use with repositories of the Discord.js Japan User Group"
 	],
 	"extends": [
 		"config:best-practices",
-		":assignAndReview(Mogyuchi)",
 		":disablePrControls",
 		"customManagers:githubActionsVersions"
 	],

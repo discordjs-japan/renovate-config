@@ -1,6 +1,6 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"extends": [
-		"local>mogyugyu/renovate-config"
+		"local>discordjs-japan/renovate-config"
 	]
 }

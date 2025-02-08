@@ -1,10 +1,10 @@
 {
 	"$schema": "https://docs.renovatebot.com/renovate-schema.json",
 	"description": [
-		"app preset for use with mogyugyu's repos"
+		"App preset for use with repositories of the Discord.js Japan User Group"
 	],
 	"extends": [
 		"config:js-app",
-		"github>mogyugyu/renovate-config"
+		"github>discordjs-japan/renovate-config"
 	]
 }
